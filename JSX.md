@@ -1,12 +1,1 @@
-Create a Complex JSX Element
-
-
-const JSX = <div><br>
-  <h1>Heading.</h1><br>
-  <p>Paragraph</p><br>
- <ul><br>
-  <li>Coffee</li><br>
-  <li>Tea</li><br>
-  <li>Milk</li><br>
-</ul><br>
-</div>;  
+![JSX](https://user-images.githubusercontent.com/26092150/54972370-a9c20e80-4f61-11e9-9205-fe74d8b844df.JPG)
